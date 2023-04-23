@@ -1,0 +1,1 @@
+When I am start to learn React i made some project. And now that I'm getting better at React, I'm still making projects. At this time I am trying to learn the concept of React Redux.
